@@ -10,7 +10,7 @@ const process_data = (() => {
       sync_async.async_await(function* () {
         
         // Get page
-        let page = yield getUrl('hd7exploit.wordpress.com');
+        let page = yield getUrl('https://hd7exploit.wordpress.com');
         //console.log(page);
         // Check URL
         let checkUrl = yield check('params').then((data)=>{
