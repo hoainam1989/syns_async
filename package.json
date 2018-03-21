@@ -1,0 +1,26 @@
+{
+  "name": "sync_async",
+  "version": "1.0.0",
+  "description": "Testing function for sync async function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoainam1989/syns_async.git"
+  },
+  "keywords": [
+    "sync",
+    "async"
+  ],
+  "author": "hd7exploit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoainam1989/syns_async/issues"
+  },
+  "homepage": "https://github.com/hoainam1989/syns_async#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
