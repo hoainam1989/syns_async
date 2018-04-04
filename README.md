@@ -1,5 +1,13 @@
 # syns_async
-Testing function. Check test.js for more detail.
+
+Check test.js for more detail how to use this.
+
+### Installing
+
+```
+npm install syns_async
+
+```
 
 ### Example
 
@@ -24,4 +32,12 @@ sync_async.async_await(function* () {
 })();
 
 ```
+## Authors
+
+* **Hd7exploit** 
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
