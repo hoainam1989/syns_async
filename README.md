@@ -1,6 +1,6 @@
 # syns_async
 
-Check test.js for more detail how to use this.
+Check test.js for more detail how to use this.yeah
 
 ### Installing
 
@@ -8,7 +8,6 @@ Check test.js for more detail how to use this.
 npm install syns_async
 
 ```
-
 ### Example
 
 ```
