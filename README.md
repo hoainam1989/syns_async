@@ -7,7 +7,8 @@ Check test.js for more detail how to use this.yeah
 ```
 npm install syns_async
 
-```
+``` 
+
 ### Example
 
 ```
